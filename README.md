@@ -4,7 +4,7 @@
 ## Data Pipeline
 - A data pipeline is a series of interconnected systems and processes that enable the flow of data from its source to its destination in an optimal and usable way.
 
--------------------------------------------------------------------|
+
 COLLECTION > INGESTION > PREPARATION > COMPUTATION > PRESENTATION. |
 -------------------------------------------------------------------| 
 
